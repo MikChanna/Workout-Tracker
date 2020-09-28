@@ -6,9 +6,9 @@ As the name says, this app is a workout tracker. You'll be able to view, create,
 
 **## Table of Contents**
 
-- [Workout-Tracker](#workout-tracker)
-  - [Usage Information](#usage-information)
-  - [Contribution](#contribution)
+
+- [Usage Information](#usage-information)
+- [Contribution](#contribution)
 - [Questions](#questions)
 
 ## Usage Information
