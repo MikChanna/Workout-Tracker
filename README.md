@@ -15,6 +15,9 @@ As the name says, this app is a workout tracker. You'll be able to view, create,
 
 Navigate to the deployed app at https://calm-taiga-07617.herokuapp.com/?id=5f714677efc7f6001764729f and create your first workout.
 
+![Screen Shot 2020-09-28 at 1 47 21 PM](https://user-images.githubusercontent.com/61893686/94467576-29511f00-0191-11eb-8420-a6d7b7bb4d47.png)
+
+
 ## Contribution
 
 Backend contribution by Channa Mik Carlson.
